@@ -1,5 +1,5 @@
 {
-  "name": "LocalTuya 2.0",
+  "name": "LocalTuya 2.0 (lossanarch fork)",
   "homeassistant": "2024.1.0",
   "render_readme": true,
   "filename": "localtuya_bildass",

@@ -2,15 +2,15 @@
   "domain": "localtuya_bildass",
   "name": "LocalTuya 2.0",
   "codeowners": [
-    "@Bildass"
+    "@lossanarch"
   ],
   "config_flow": true,
   "dependencies": [],
-  "documentation": "https://github.com/Bildass/localtuya/",
+  "documentation": "https://github.com/lossanarch/localtuya/",
   "iot_class": "local_push",
   "issue_tracker": "https://github.com/Bildass/localtuya/issues",
   "requirements": [
     "tuya-device-sharing-sdk>=0.2.0"
   ],
-  "version": "7.12.1"
+  "version": "7.12.2-lossanarch.1"
 }
