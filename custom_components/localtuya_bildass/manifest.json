@@ -12,5 +12,5 @@
   "requirements": [
     "tuya-device-sharing-sdk>=0.2.0"
   ],
-  "version": "7.12.2-lossanarch.1"
+  "version": "7.12.2-lossanarch.2"
 }
